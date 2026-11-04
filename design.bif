@@ -1,0 +1,4 @@
+all:
+{
+	dds_audio_top.bit
+}
